@@ -542,5 +542,3 @@ main.bind("<asterisk>", mult)
 main.bind("<plus>", plus)
 main.bind("<Return>", enter)
 main.bind("<Delete>", removetext)
-
-main()
